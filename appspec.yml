@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /hello-world-war-4.0.0.war
+  - source: /target/hello-world-war-4.0.0.war
     destination: /usr/share/tomcat/webapps
