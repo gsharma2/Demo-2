@@ -11,4 +11,5 @@ phases:
 artifacts:
   files:
     - target/Hello-4.0.0.war
+    - appspec.yml
   discard-paths: yes
