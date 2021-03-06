@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/Hello.war
+    - target/Hello-4.0.0.war
   discard-paths: yes
